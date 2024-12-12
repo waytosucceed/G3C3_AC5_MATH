@@ -1,0 +1,112 @@
+[
+  {
+    "questionNo": "Q1",
+    "question": "Charles entered the digits 3, 6, and 4. What is the smallest number he can form?<br><img width='80%' src='./images/43.png'>",
+    "options": [
+      "643",
+      "436",
+      "364",
+      "346"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q2",
+    "question": "Charles has the digits 7, 2, and 5. Which of the following is the greatest number he can form?<br><img width='80%' src='./images/43.png'>",
+    "options": [
+      "257",
+      "725",
+      "572",
+      "752"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q3",
+    "question": "Charles is sorting 8, 1, 3, and 5. What is the smallest number he can form?<br><img width='80%' src='./images/43.png'>",
+    "options": [
+      "1853",
+      "3518",
+      "1358",
+      "8315"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q4",
+    "question": "Charles needs to arrange 4, 7, 9, and 2. What is the greatest number he can form?<br><img width='80%' src='./images/43.png'>",
+    "options": [
+      "7942",
+      "9724",
+      "4792",
+      "7429"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q5",
+    "question": "Charles has the digits 6, 3, 7, 9, and 1. What is the smallest number he can form?<br><img width='80%' src='./images/43.png'>",
+    "options": [
+      "19736",
+      "91367",
+      "63179",
+      "13679"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q6",
+    "question": "Charles wants to form the greatest number using 4, 2, 8, 5, and 1. What is the greatest number?<br><img width='80%' src='./images/43.png'>",
+    "options": [
+      "12458",
+      "85241",
+      "54182",
+      "81425"
+    ],
+    "correct": 1
+  },
+  {
+    "questionNo": "Q7",
+    "question": "Charles is sorting 5, 8, 2, 1, and 7. What is the smallest number he can form?<br><img width='80%' src='./images/43.png'>",
+    "options": [
+      "12578",
+      "18257",
+      "12578",
+      "15278"
+    ],
+    "correct": 0
+  },
+  {
+    "questionNo": "Q8",
+    "question": "Charles needs to arrange 6, 4, 9, 2, and 3. What is the greatest number he can form?<br><img width='80%' src='./images/43.png'>",
+    "options": [
+      "23469",
+      "64329",
+      "93264",
+      "96432"
+    ],
+    "correct": 3
+  },
+  {
+    "questionNo": "Q9",
+    "question": "Charles has the digits 1, 9, 5, 3, 8, 7, and 4. What is the smallest number he can form?<br><img width='80%' src='./images/43.png'>",
+    "options": [
+      "1345798",
+      "1793584",
+      "1345789",
+      "1453789"
+    ],
+    "correct": 2
+  },
+  {
+    "questionNo": "Q10",
+    "question": "Charles needs to arrange 9, 3, 7, 6, 1, 5, and 4. What is the greatest number he can form?<br><img width='80%' src='./images/43.png'>",
+    "options": [
+      "9765431",
+      "9756431",
+      "9764315",
+      "9536741"
+    ],
+    "correct": 0
+  }
+]
