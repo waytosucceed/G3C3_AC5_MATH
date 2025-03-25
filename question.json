@@ -8,7 +8,7 @@
       "364",
       "346"
     ],
-    "correct": 2
+    "correct": 3
   },
   {
     "questionNo": "Q2",
@@ -37,7 +37,7 @@
     "question": "Charles needs to arrange 4, 7, 9, and 2. What is the greatest number he can form?<br><img width='80%' src='./images/43.png'>",
     "options": [
       "7942",
-      "9724",
+      "9742",
       "4792",
       "7429"
     ],
@@ -59,7 +59,7 @@
     "question": "Charles wants to form the greatest number using 4, 2, 8, 5, and 1. What is the greatest number?<br><img width='80%' src='./images/43.png'>",
     "options": [
       "12458",
-      "85241",
+      "85421",
       "54182",
       "81425"
     ],
